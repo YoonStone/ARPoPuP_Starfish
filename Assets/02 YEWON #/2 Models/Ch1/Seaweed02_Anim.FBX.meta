@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 874b15ffca69be0458d43f02bc312f8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10_015
+    100002: 10_017
+    100004: 10_018
+    100006: 10_019
+    100008: 10_020
+    100010: 10_021
+    100012: 10_023
+    100014: 10_024
+    100016: Seaweed011
+    100018: //RootNode
+    100020: Seaweed10_03_004
+    100022: Seaweed10_03_005
+    100024: Seaweed10_03_006
+    100026: Seaweed10_05_004
+    100028: Seaweed10_05_005
+    100030: Seaweed10_05_006
+    100032: Seaweed10_06_005
+    100034: Seaweed10_06_006
+    100036: Seaweed10_06_007
+    100038: Seaweed10_06_008
+    100040: Seaweed10_07_005
+    100042: Seaweed10_07_006
+    100044: Seaweed10_07_007
+    100046: Seaweed10_07_008
+    100048: Seaweed10_09_005
+    100050: Seaweed10_09_006
+    100052: Seaweed10_09_007
+    100054: Seaweed10_09_008
+    100056: Seaweed10_10_005
+    100058: Seaweed10_10_006
+    100060: Seaweed10_10_007
+    100062: Seaweed10_10_008
+    100064: Seaweed10_12_005
+    100066: Seaweed10_12_006
+    100068: Seaweed10_12_007
+    100070: Seaweed10_12_008
+    100072: Seaweed10_13_005
+    100074: Seaweed10_13_006
+    100076: Seaweed10_13_007
+    100078: Seaweed10_13_008
+    400000: 10_015
+    400002: 10_017
+    400004: 10_018
+    400006: 10_019
+    400008: 10_020
+    400010: 10_021
+    400012: 10_023
+    400014: 10_024
+    400016: Seaweed011
+    400018: //RootNode
+    400020: Seaweed10_03_004
+    400022: Seaweed10_03_005
+    400024: Seaweed10_03_006
+    400026: Seaweed10_05_004
+    400028: Seaweed10_05_005
+    400030: Seaweed10_05_006
+    400032: Seaweed10_06_005
+    400034: Seaweed10_06_006
+    400036: Seaweed10_06_007
+    400038: Seaweed10_06_008
+    400040: Seaweed10_07_005
+    400042: Seaweed10_07_006
+    400044: Seaweed10_07_007
+    400046: Seaweed10_07_008
+    400048: Seaweed10_09_005
+    400050: Seaweed10_09_006
+    400052: Seaweed10_09_007
+    400054: Seaweed10_09_008
+    400056: Seaweed10_10_005
+    400058: Seaweed10_10_006
+    400060: Seaweed10_10_007
+    400062: Seaweed10_10_008
+    400064: Seaweed10_12_005
+    400066: Seaweed10_12_006
+    400068: Seaweed10_12_007
+    400070: Seaweed10_12_008
+    400072: Seaweed10_13_005
+    400074: Seaweed10_13_006
+    400076: Seaweed10_13_007
+    400078: Seaweed10_13_008
+    2100000: No Name
+    4300000: 10_015
+    4300002: 10_017
+    4300004: 10_018
+    4300006: 10_019
+    4300008: 10_020
+    4300010: 10_021
+    4300012: 10_023
+    4300014: 10_024
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 10_015
+    13700002: 10_017
+    13700004: 10_018
+    13700006: 10_019
+    13700008: 10_020
+    13700010: 10_021
+    13700012: 10_023
+    13700014: 10_024
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

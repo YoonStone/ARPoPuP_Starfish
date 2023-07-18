@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: a96c72ea21d86184bb6e2390a795e3cb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Background
+    100002: Bottle
+    100004: Chest
+    100006: Chest 1
+    100008: Cliff
+    100010: Coin
+    100012: Crystal1
+    100014: Crystal2
+    100016: Fish1
+    100018: Fish2
+    100020: Fish3
+    100022: Fish3 1
+    100024: floorleft
+    100026: floorright
+    100028: Rock
+    100030: Rock 1
+    100032: Rock 2
+    100034: Rock 3
+    100036: Rock 4
+    100038: Rock2
+    100040: Rock3
+    100042: //RootNode
+    100044: Seahorse
+    100046: Seahorse 1
+    100048: Seahorse 2
+    100050: Seaweed
+    100052: Seaweed 1
+    100054: Seaweed 2
+    100056: Seaweed 3
+    100058: Seaweed 4
+    100060: Seaweed 5
+    100062: Seaweed 6
+    100064: Seaweed 7
+    100066: Seaweed007
+    100068: Seaweed1
+    100070: Seaweed2
+    100072: Seaweed3
+    100074: Seaweed4
+    100076: Seaweed5
+    100078: Seaweed6
+    400000: Background
+    400002: Bottle
+    400004: Chest
+    400006: Chest 1
+    400008: Cliff
+    400010: Coin
+    400012: Crystal1
+    400014: Crystal2
+    400016: Fish1
+    400018: Fish2
+    400020: Fish3
+    400022: Fish3 1
+    400024: floorleft
+    400026: floorright
+    400028: Rock
+    400030: Rock 1
+    400032: Rock 2
+    400034: Rock 3
+    400036: Rock 4
+    400038: Rock2
+    400040: Rock3
+    400042: //RootNode
+    400044: Seahorse
+    400046: Seahorse 1
+    400048: Seahorse 2
+    400050: Seaweed
+    400052: Seaweed 1
+    400054: Seaweed 2
+    400056: Seaweed 3
+    400058: Seaweed 4
+    400060: Seaweed 5
+    400062: Seaweed 6
+    400064: Seaweed 7
+    400066: Seaweed007
+    400068: Seaweed1
+    400070: Seaweed2
+    400072: Seaweed3
+    400074: Seaweed4
+    400076: Seaweed5
+    400078: Seaweed6
+    2100000: 'Material #28'
+    2100002: 'Material #29'
+    2100004: 16 - Default
+    2100006: No Name
+    2100008: 20 - Default
+    2100010: 13 - Default
+    2100012: 21 - Default
+    2100014: 07 - Default
+    2100016: 19 - Default
+    2100018: 02 - Default
+    2100020: 23 - Default
+    2100022: 24 - Default
+    2100024: 22 - Default
+    2100026: 01 - Default
+    2100028: 14 - Default
+    2100030: 09 - Default
+    2100032: 03 - Default
+    2100034: 17 - Default
+    2100036: 18 - Default
+    2100038: 08 - Default
+    2100040: 15 - Default
+    2300000: Background
+    2300002: Bottle
+    2300004: Chest
+    2300006: Chest 1
+    2300008: Cliff
+    2300010: Coin
+    2300012: Crystal1
+    2300014: Crystal2
+    2300016: Fish1
+    2300018: Fish2
+    2300020: Fish3
+    2300022: Fish3 1
+    2300024: floorleft
+    2300026: floorright
+    2300028: Rock
+    2300030: Rock 1
+    2300032: Rock 2
+    2300034: Rock 3
+    2300036: Rock 4
+    2300038: Rock2
+    2300040: Rock3
+    2300042: Seahorse
+    2300044: Seahorse 1
+    2300046: Seahorse 2
+    2300048: Seaweed
+    2300050: Seaweed 1
+    2300052: Seaweed 2
+    2300054: Seaweed 3
+    2300056: Seaweed 4
+    2300058: Seaweed 5
+    2300060: Seaweed 6
+    2300062: Seaweed 7
+    2300064: Seaweed007
+    2300066: Seaweed1
+    2300068: Seaweed2
+    2300070: Seaweed3
+    2300072: Seaweed4
+    2300074: Seaweed5
+    2300076: Seaweed6
+    3300000: Background
+    3300002: Bottle
+    3300004: Chest
+    3300006: Chest 1
+    3300008: Cliff
+    3300010: Coin
+    3300012: Crystal1
+    3300014: Crystal2
+    3300016: Fish1
+    3300018: Fish2
+    3300020: Fish3
+    3300022: Fish3 1
+    3300024: floorleft
+    3300026: floorright
+    3300028: Rock
+    3300030: Rock 1
+    3300032: Rock 2
+    3300034: Rock 3
+    3300036: Rock 4
+    3300038: Rock2
+    3300040: Rock3
+    3300042: Seahorse
+    3300044: Seahorse 1
+    3300046: Seahorse 2
+    3300048: Seaweed
+    3300050: Seaweed 1
+    3300052: Seaweed 2
+    3300054: Seaweed 3
+    3300056: Seaweed 4
+    3300058: Seaweed 5
+    3300060: Seaweed 6
+    3300062: Seaweed 7
+    3300064: Seaweed007
+    3300066: Seaweed1
+    3300068: Seaweed2
+    3300070: Seaweed3
+    3300072: Seaweed4
+    3300074: Seaweed5
+    3300076: Seaweed6
+    4300000: Crystal1
+    4300002: Crystal2
+    4300004: Background
+    4300006: Bottle
+    4300008: Seahorse
+    4300010: Seahorse
+    4300012: Seahorse
+    4300014: Rock
+    4300016: Rock
+    4300018: Seaweed
+    4300020: Seaweed
+    4300022: Seaweed
+    4300024: Fish3
+    4300026: Fish2
+    4300028: Fish3
+    4300030: Rock3
+    4300032: Seaweed
+    4300034: Seaweed
+    4300036: Seaweed6
+    4300038: Seaweed
+    4300040: Seaweed
+    4300042: Seaweed
+    4300044: Coin
+    4300046: Chest
+    4300048: Rock
+    4300050: Seaweed3
+    4300052: Rock2
+    4300054: Seaweed5
+    4300056: Seaweed4
+    4300058: Fish1
+    4300060: Rock
+    4300062: Rock
+    4300064: Cliff
+    4300066: Seaweed1
+    4300068: Seaweed2
+    4300070: Chest
+    4300072: Seaweed007
+    4300074: floorright
+    4300076: floorleft
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
